@@ -8,7 +8,7 @@ Use Spark SQL to answer the following directions:
 - Get the total number of diverted flights from each airline carrier, and group the results by airline carrier and order by the total number of diverted flights in descending order.
 - Get the average time for delayed departures and arrivals for each airline carrier, and group the results by the airline carrier.
 
-## Delayed_Flights_temporary_view_colab.ipynb
+## Olympic_analysis_colab.ipynb
 
 Use Spark SQL to answer the following questions:
 - How many new sports were played in the 2016 summer Olympics?
