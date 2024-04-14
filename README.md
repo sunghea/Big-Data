@@ -18,3 +18,6 @@ Use Spark SQL to answer the following questions:
 
 ## basic pyspark with colab.ipynb
 Follow the comments in the provided notebook to clean and display demographic data by using Spark DataFrames
+
+## hot_days.py
+Use MRJob to determine the total number of stations recording snow per date in Austin, Texas. Create mapper and reducer functions that return the total number of sta
