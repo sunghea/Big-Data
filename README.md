@@ -1,9 +1,7 @@
 
 ## Delayed_Flights_temporary_view_colab.ipynb
 
-Use Spark SQL to 
-
-the following:
+Use Spark SQL to answer the following directions:
 - Retrieve the first five airline carriers that arrive at George Bush Intercontinental Airport (IAH) in Houston and what airport the flight originates.
 - Get all the origin and destination of all the Southwest (WN) flights.
 - Get the airline carrier, the origin, the destination, and the elapsed time in descending order, and limit the results to 10.
