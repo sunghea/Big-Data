@@ -1,6 +1,6 @@
 # Big-Data
 
-I’ll use MRJob to determine the total number of stations recording snow per date in Austin, Texas.
+I used MRJob to determine the total number of stations recording snow per date in Austin, Texas.
 Create mapper and reducer functions that return the total number of stations recording snow per date in Austin, Texas.
 
 ## Instructions
