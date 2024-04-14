@@ -1,10 +1,19 @@
 
 ## Delayed_Flights_temporary_view_colab.ipynb
 
-I evaluated a dataset that contains Olympic athlete data by using Spark SQL
+Use Spark SQL to 
 
-Answer the following questions:
-How many new sports were played in the 2016 summer Olympics?
-What are the names of each sport that has been added?
-Which sports have been played since the first summer Olympics?
-Who are the top five athletes that won the most gold, silver, and bronze medals?
+the following:
+- Retrieve the first five airline carriers that arrive at George Bush Intercontinental Airport (IAH) in Houston and what airport the flight originates.
+- Get all the origin and destination of all the Southwest (WN) flights.
+- Get the airline carrier, the origin, the destination, and the elapsed time in descending order, and limit the results to 10.
+- Get the total number of diverted flights from each airline carrier, and group the results by airline carrier and order by the total number of diverted flights in descending order.
+- Get the average time for delayed departures and arrivals for each airline carrier, and group the results by the airline carrier.
+
+## Delayed_Flights_temporary_view_colab.ipynb
+
+Use Spark SQL to answer the following questions:
+- How many new sports were played in the 2016 summer Olympics?
+- What are the names of each sport that has been added?
+- Which sports have been played since the first summer Olympics?
+- Who are the top five athletes that won the most gold, silver, and bronze medals?
